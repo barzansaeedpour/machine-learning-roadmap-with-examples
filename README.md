@@ -1,12 +1,10 @@
-Sure! Here's an example of a README.md file for a machine learning roadmap:
-
-# Machine Learning Roadmap
+# Machine Learning Roadmap with Examples
 
 This repository contains a roadmap for learning machine learning, providing a step-by-step guide to help you navigate the field and acquire the necessary knowledge and skills. Whether you are a beginner or have some experience in programming and mathematics, this roadmap will assist you in your journey to becoming proficient in machine learning.
 
 ## Table of Contents
 
-- [Mathematics and Statistics]()
+- [Mathematics and Statistics](/01_Mathematics%20and%20Statistics/README.md)
 - [Fundamentals of Machine Learning]()
 - [Data Preprocessing and Feature Engineering]()
 - [Machine Learning Algorithms]()
